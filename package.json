@@ -1,5 +1,5 @@
 {
-  "name": "@xiamocc/plugin-upload-correlation",
+  "name": "@xiamocc/plugin-correlation",
   "version": "0.0.1 ",
   "description": "wangEditor 关联表跳转组件",
   "repository": {
